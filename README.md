@@ -7,4 +7,4 @@
 kahoragachau/kahoragachau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-stats.vercel.app/api?username=kahoragachau&&show_icons=true&title_color=ffffff&icon_color=13381d&text_color=c68ed1&bg_color=8eb0d1">
+<img src="https://github-readme-stats.vercel.app/api?username=kahoragachau&&show_icons=true&title_color=533440&icon_color=a47786&text_color=e4d4c8&bg_color=9db6cc">
