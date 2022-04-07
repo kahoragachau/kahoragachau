@@ -8,3 +8,5 @@ kahoragachau/kahoragachau is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=kahoragachau&&show_icons=true&title_color=f26d93&icon_color=a47786&text_color=ada5a5&bg_color=000000">
+
+<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Kahora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kahoragachau&bg_color=000000&color=fff6ea&line=fad02c&point=FFFFFF&hide_border=true"/></a>
