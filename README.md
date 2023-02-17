@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kahoragachau
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS Bootstrap, React and JavaScript(ES6) 
+- 🌱 I’m currently learning Angular, TypeScript, HTML/CSS Bootstrap, React and JavaScript(ES6) 
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 ---
