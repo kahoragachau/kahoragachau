@@ -43,5 +43,17 @@
 
 
 ---
+<h3>Some Of my Contributions to elewa-group open source</h3>
+<!-- List all the tasks and bounties in progress this week -->
+
+| Worked on 	| Status 	| Link 	|
+|----------	|-------	|--------	|
+| issue | merged | *Link to project* |
+| issue | merged | |
+| issue | merged | |
+| issue | merged | |
+| issue | merged | |
+
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=geq5hixtur2s0ok3jmpw4w8sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
