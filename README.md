@@ -43,5 +43,17 @@
 
 
 ---
+<h3>Some Of my Contributions to elewa-group open source</h3>
+<!-- List all the tasks and bounties in progress this week -->
+
+| Worked on 	| Status 	| Link 	|
+|----------	|-------	|--------	|
+| issue [#38](https://github.com/italanta/elewa-group/issues/38) | merged | https://github.com/italanta/elewa-group/pull/107 |
+| issue [#319](https://github.com/italanta/elewa-group/issues/319) | merged | https://github.com/italanta/elewa-group/pull/339 |
+| issue [#247](https://github.com/italanta/elewa-group/issues/247)| merged | https://github.com/italanta/elewa-group/pull/283 |
+| issue [#311](https://github.com/italanta/elewa-group/issues/311) | merged | https://github.com/italanta/elewa-group/pull/329 |
+| issue [#400](https://github.com/italanta/elewa-group/issues/400)| merged | https://github.com/italanta/elewa-group/pull/408 |
+
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=geq5hixtur2s0ok3jmpw4w8sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
