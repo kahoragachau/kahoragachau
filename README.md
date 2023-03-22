@@ -49,9 +49,9 @@
 | Worked on 	| Status 	| Link 	|
 |----------	|-------	|--------	|
 | issue [#38](https://github.com/italanta/elewa-group/issues/38) | merged | https://github.com/italanta/elewa-group/pull/107 |
-| issue [#319](https://github.com/italanta/elewa-group/issues/319) | merged | https://github.com/italanta/elewa-group/pull/339 |
 | issue [#247](https://github.com/italanta/elewa-group/issues/247)| merged | https://github.com/italanta/elewa-group/pull/283 |
 | issue [#311](https://github.com/italanta/elewa-group/issues/311) | merged | https://github.com/italanta/elewa-group/pull/329 |
+| issue [#319](https://github.com/italanta/elewa-group/issues/319) | merged | https://github.com/italanta/elewa-group/pull/339 |
 | issue [#400](https://github.com/italanta/elewa-group/issues/400)| merged | https://github.com/italanta/elewa-group/pull/408 |
 
 ---
