@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kahoragachau" alt="kahoragachau" /></a> </p>
 
-- 🔭 I’m currently working on [Elewa-Group](https://github.com/italanta/elewa-group)
+- 🔭 I have worked on [Elewa-Group](https://github.com/italanta/elewa-group) and I’m currently working on [Elewa](https://github.com/italanta/elewa)
 
 - 🌱 I’m currently learning **React, Angular, TypeScript, Flask**
 
