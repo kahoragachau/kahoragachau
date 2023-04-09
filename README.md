@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Angular, TypeScript, Flask**
 
-- 💬 Ask me about **React, Flask, Ruby on Rails**
+- 💬 Ask me about **React, Flask, Ruby on Rails .**
 
 - 📫 How to reach me **joelkahoragachau6@gmail.com**
 
