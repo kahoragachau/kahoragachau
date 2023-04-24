@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joelkahoragachau6@gmail.com**
 
-- ⚡ Fun fact **I love Anime, Comics and Manga**
+- ⚡ Fun fact **I love Anime, Comics and Manga.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
