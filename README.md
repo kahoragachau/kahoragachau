@@ -7,7 +7,7 @@
 
 - 🔭 I have worked on [Elewa-Group](https://github.com/italanta/elewa-group) and I’m currently working on [Elewa](https://github.com/italanta/elewa) and Triv
 
-- 🌱 I’m currently learning **React, Angular, TypeScript, Flask, Django**
+- 🌱 I’m currently learning **React, Angular, TypeScript, Flask, Django, Flutter**
 
 - 💬 Ask me about **React, Flask, Ruby on Rails .**
 
